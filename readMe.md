@@ -1,6 +1,6 @@
 # CSS Playground
 
-## Your First Resume
+## Your First Developer Resume
 
     1. Add relevant information to the appropriate sections
 

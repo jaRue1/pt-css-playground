@@ -27,9 +27,6 @@ body {
 img {
   width: 300px;
 }
-a {
-  color: #FFE66D;
-}
 a:hover {
   text-decoration: none;
 }
